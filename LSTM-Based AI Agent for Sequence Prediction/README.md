@@ -96,5 +96,3 @@ This gating mechanism allows the model to remember context from the beginning of
 
 ---
 
-## AI Acknowledgement
-Developed with assistance from **Antigravity (Google DeepMind)** for architectural planning, code implementation, and documentation.
